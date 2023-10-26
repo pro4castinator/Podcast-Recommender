@@ -16,7 +16,7 @@ This is a web interface for recommending podcasts based on user preferences.
 
 ## Demo
 
-Check out the deployed web app: [Podcast Recommender](https://pro4castinator-podcast-recommender-web-app-app-ekiek1.streamlit.app/)
+Check out the deployed web app: [Podcast Recommender](https://patraranya-podcast-recommender.hf.space/)
 
 ## Features
 
