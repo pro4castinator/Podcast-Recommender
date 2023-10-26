@@ -1,3 +1,4 @@
+---
 title: Podcast Recommender
 emoji: 🏆
 colorFrom: pink
@@ -7,6 +8,7 @@ sdk_version: 1.28.0
 app_file: app.py
 pinned: false
 license: mit
+---
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
